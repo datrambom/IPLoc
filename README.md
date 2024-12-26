@@ -13,21 +13,9 @@ IPLoc is a graphical desktop application built using `customtkinter` that allows
 - Internet connection
 
 ## Installation
-0. Download Released version
- 
-1. Clone the repository:
-    ```bash
-    git clone https://github.com/datrambom/IPLoc
-    cd IPLoc
-    ```
-2. Install the required dependencies:
-    ```bash
-    pip install customtkinter
-    ```
-3. Run the application:
-    ```bash
-    python app.py
-    ```
+
+1. Download the latest release from the [Releases](https://github.com/datrambom/IPLoc/releases) page
+2. Open **IPLoc.exe**
 
 ## Usage
 1. Launch the application.
